@@ -1,0 +1,6 @@
+name: nginx_action_metadata1
+pack: nginx_install1
+runner_type: python-script
+description: This action will install nginx in a ubuntu container
+enabled: true
+entry_point: nginx_install_action1.py
